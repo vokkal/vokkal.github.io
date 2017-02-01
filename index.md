@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+title: Vokkal.co
+landing-title: 'Be Vokkal'
+description: 'Vokkal is a voice-first software development agency.'
 image: null
 author: null
 ---
