@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-# Landing
+# The thing
 
 </header>
   <div class="content">
